@@ -1,0 +1,19 @@
+{
+  "name": "cli-qpg",
+  "version": "1.0.0",
+  "description": "A command line based question paper generator.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/app.js",
+  "author": "Santosh Baggam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-table": "^0.3.1",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0",
+    "ora": "^3.0.0"
+  }
+}
