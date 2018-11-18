@@ -34,4 +34,4 @@ Simply run the below command to see the auto generated questions.
 cli-qpg --marks=100 --easy=30 --medium=40 --hard=30
 ```
 
-> Note: The --marks flag is required while the easy, medium and hard are optional and takes default values of 30, 30 and 40 respectively.
+> Note: The --marks flag is required while the easy, medium and hard are optional and takes default values of 30, 30 and 40 percentages respectively.
